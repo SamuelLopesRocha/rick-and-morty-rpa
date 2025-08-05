@@ -43,14 +43,6 @@ projeto_rpa/
 
 ---
 
-## 📷 Prints recomendados para demonstração
-
-- Execução do script no terminal
-- Visualização das tabelas no banco de dados
-- Confirmação de e-mail enviado com sucesso
-
----
-
 ## ✅ Conclusão
 
 Este projeto demonstra como integrar APIs, persistência de dados, expressões regulares e envio automatizado de relatórios, utilizando Python puro. Uma base sólida para aplicações de RPA e automações simples com dados públicos.
